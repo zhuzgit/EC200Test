@@ -1,5 +1,9 @@
 # EC200Test
 
+## ECtestWin.py
+<img width="1704" height="1164" alt="image" src="https://github.com/user-attachments/assets/b72380a7-33ef-48a1-8717-4c85a7cd018b" />
+
+
 ```
 python .\ECtest.py
 发现串口: COM29 - 描述: Quectel USB AT Port (COM29)
@@ -65,6 +69,8 @@ OK
 ========================================
 所有测试命令执行完毕，串口已安全关闭。
 ```
+
+## ECtest.py
 
 <img width="1854" height="1896" alt="image" src="https://github.com/user-attachments/assets/82e92c9a-1495-4e74-b973-6f99565b62b5" />
 
