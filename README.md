@@ -30,6 +30,6 @@ AT+QCFG="nwscanmode"
 OK
 ```
 
-<img width="1974" height="1214" alt="image" src="https://github.com/user-attachments/assets/bbe5528b-75ea-4ae5-ac55-1a76c349cf89" />
+<img width="2686" height="1936" alt="image" src="https://github.com/user-attachments/assets/4a2528d7-ac43-4f09-aaa2-f3c3cd3c2028" />
 
 
