@@ -1,7 +1,9 @@
 # EC200Test
 
 ## ECtestWin.py
-<img width="1704" height="1164" alt="image" src="https://github.com/user-attachments/assets/b72380a7-33ef-48a1-8717-4c85a7cd018b" />
+
+<img width="2004" height="1264" alt="image" src="https://github.com/user-attachments/assets/4efc1ff4-4df4-4cd7-922d-e1da487db988" />
+
 
 
 ```
