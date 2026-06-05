@@ -1,0 +1,3 @@
+AT+CEREG?
+AT+COPS?
+AT+COPS=?

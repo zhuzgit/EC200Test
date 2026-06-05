@@ -1,0 +1,7 @@
+AT+QGMR
+AT+QICSGP=1
+AT+CFUN? 
+AT+CPIN? 
+AT+QENG="SERVINGCELL"
+AT+QCFG="band"
+AT+QCFG="nwscanmode"
