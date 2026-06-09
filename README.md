@@ -1,5 +1,7 @@
 # EC200Test
 
+<img width="1084" height="1342" alt="4311963b646e0af85c218b4096527595" src="https://github.com/user-attachments/assets/f2d46108-deef-428e-8cd6-06e1b44f0be0" />
+
 ## ECtestWin.py
 
 python -m PyInstaller --onefile ECtestWin.py 
